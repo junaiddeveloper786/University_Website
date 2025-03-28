@@ -15,10 +15,9 @@ This is a **fully responsive** university website built using **HTML, CSS, and J
 - **JavaScript** - Interactivity
 
 ## 🚀 Live Demo
-Once hosted on **GitHub Pages**, you can access the live site here:  
-🔗 [Live Website](https://your-username.github.io/your-repository-name/)
+🔗 [Live Website](https://junaiddeveloper786.github.io/University_Website/)
 
 ## 📌 How to Use
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repository-name.git
+git clone https://github.com/junaiddeveloper786/University_Website.git
